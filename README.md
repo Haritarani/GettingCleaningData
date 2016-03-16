@@ -8,7 +8,7 @@ A full description of the data used in this project can be found at The UCI Mach
 
 Script Changes.
 
-Once the source file is downloaded, you will need to make one modification to the R file before you can process the data.
+Once the source file is downloaded, you will need write the R script to perform the below actions . The script name is run_Analysis.R
 
 Project Summary
 
@@ -21,3 +21,4 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+The final Output is redirected to the file called tidyData_Average.txt.
